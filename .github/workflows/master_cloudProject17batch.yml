@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'cloudProject17batch'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_5c5dc7a8df534935a8d1ba575474d502 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_4e6977163ab54a9a87778e8640911fe3 }}
